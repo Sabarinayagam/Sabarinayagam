@@ -6,7 +6,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p>I am Sabari Nayagam. I graduated from the SRM Institute of Science and Technology with a B.Tech. I have one year of experience as a front-end developer. I have completed a full-stack Java development course and received certification in it.My portfolio and GitHub showcase a variety of projects that demonstrate my ability to deliver responsive and dynamic web applications.</p>
+<p>I am Sabari Nayagam. I graduated from the SRM Institute of Science and Technology with a B.Tech. I have 2.5 year of experience as a front-end developer. I have completed a full-stack Java development course and received certification in it.My portfolio and GitHub showcase a variety of projects that demonstrate my ability to deliver responsive and dynamic web applications.</p>
 
 ###
 
